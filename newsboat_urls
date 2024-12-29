@@ -1,25 +1,22 @@
 #News
+https://www.theregister.com/headlines.atom
+https://www.theregister.com/on_prem/headlines.atom
 https://feeds.arstechnica.com/arstechnica/index
-https://krebsonsecurity.com/feed/
 https://www.bleepingcomputer.com/feed/
-https://feeds.feedburner.com/GoogleOnlineSecurityBlog
-https://fedoramagazine.org/feed/
+https://rss.slashdot.org/Slashdot/slashdotMain
+https://www.phoronix.com/rss.php
+https://linuxiac.com/feed/
 
 #Reddits
 https://www.reddit.com/r/sysadmin/top/.rss
 https://www.reddit.com/r/linuxadmin/top/.rss
-https://www.reddit.com/r/linux/top/.rss
-https://www.reddit.com/r/devops/top/.rss
-https://www.reddit.com/r/develeire/top/.rss
 https://www.reddit.com/r/apachekafka/top/.rss
+https://www.reddit.com/r/kubernetes/top/.rss
 
 #Misc
-https://www.redhat.com/sysadmin/rss.xml
-http://lxer.com/module/newswire/headlines.rss
 https://linuxhandbook.com/rss/
 
 #Blogs
+https://utcc.utoronto.ca/~cks/space/blog/?atom
 https://jvns.ca/atom.xml
-https://iximiuz.com/feed.rss #v good diagrams, rare updates
-#https://fasterthanli.me/index.xml
-#https://blog.orhun.dev/rss.xml
+https://mischavandenburg.com/index.xml
